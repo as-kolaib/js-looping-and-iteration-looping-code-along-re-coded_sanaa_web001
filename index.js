@@ -9,12 +9,13 @@ function writeCards(names, giftName) {
 }
 
 console.log(writeCards(["Lisa", "Kaitlin", "Jan"],"surprise"));
+
+
 function countDown(number) {
-  // let n = number;
   while (number>= 0) {
     console.log(number);
     number--;
   }
 }
 
-countDown(3);
+countDown(5);
