@@ -18,4 +18,4 @@ function countDown(number) {
   }
 }
 
-countDown(5);
+countDown(10);
